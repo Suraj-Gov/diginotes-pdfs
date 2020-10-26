@@ -25,7 +25,7 @@ Diginotes are requiring people to login to view content, 🙄. So this is a repo
 ## 18CS54 - ATC
 1. https://drive.google.com/open?id=0BzfpGB351Qv_bVprR1dQTGJWN2M
 2. https://drive.google.com/open?id=0BzfpGB351Qv_c3E5S3dITUV4b0U
-3. https://drive.google.com/open?id=1oo8_MexJNSmdjbNLo4vFizrzNb8AedFN
+3. Not uploaded yet.
 4. https://drive.google.com/open?id=1oo8_MexJNSmdjbNLo4vFizrzNb8AedFN
 5. https://drive.google.com/open?id=1oo8_MexJNSmdjbNLo4vFizrzNb8AedFN
 
